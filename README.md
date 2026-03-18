@@ -7,17 +7,17 @@ Developed a multi-regional sales monitoring dashboard to track executive-level p
 
 **✨ Key Features:**
 
-🗺️ Multi-Region Coverage — Tracks 16 regions including Dhaka, Chattogram, Sylhet and more
+- Multi-Region Coverage — Tracks 16 regions including Dhaka, Chattogram, Sylhet and more
 
-📌 KPI Metrics — Total Sales, Target Achievement, Target Hit %, Gap Analysis (Away From Target %)
+- KPI Metrics — Total Sales, Target Achievement, Target Hit %, Gap Analysis (Away From Target %)
 
-📈 Data Visualization — Bar charts, Pie charts, and Trend lines for quick performance reading
+- Data Visualization — Bar charts, Pie charts, and Trend lines for quick performance reading
 
-🎛️ Interactive Slicers — Multi-dimensional filtering for drill-down analysis by region and executive
+- Interactive Slicers — Multi-dimensional filtering for drill-down analysis by region and executive
 
-🔍 Performance Identification — Highlights high/low-performing sales executives at a glance
+- Performance Identification — Highlights high/low-performing sales executives at a glance
 
-⚡ Reporting Efficiency — Converts raw data into management-ready reports, reducing manual effort
+- Reporting Efficiency — Converts raw data into management-ready reports, reducing manual effort
 
 
 **🛠️ Tools & Skills Used:**
@@ -33,13 +33,13 @@ Developed a multi-regional sales monitoring dashboard to track executive-level p
 
 **📊 Metrics Tracked:**
 
-✅ Total Sales — Actual sales volume per executive / region
+- Total Sales — Actual sales volume per executive / region
 
-🎯 Target Achievement — Absolute value of target met
+- Target Achievement — Absolute value of target met
 
-📊 Target Hit % — Percentage of target achieved
+- Target Hit % — Percentage of target achieved
 
-🔴 Away From Target % — Gap analysis to identify underperformance
+- Away From Target % — Gap analysis to identify underperformance
 
 
 **💡 What This Project Demonstrates:**
