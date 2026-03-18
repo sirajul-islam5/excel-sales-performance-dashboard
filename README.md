@@ -1,11 +1,11 @@
-📊 Interactive Sales Performance Dashboard — Microsoft Excel
+**📊 Interactive Sales Performance Dashboard — Microsoft Excel**
 
 
-🎯 Objective:
+**🎯 Objective:**
 Developed a multi-regional sales monitoring dashboard to track executive-level performance, visualize KPIs, and support management reporting — converting raw sales data into structured, decision-ready insights.
 
 
-✨ Key Features:
+**✨ Key Features:**
 
 🗺️ Multi-Region Coverage — Tracks 16 regions including Dhaka, Chattogram, Sylhet and more
 
@@ -20,18 +20,18 @@ Developed a multi-regional sales monitoring dashboard to track executive-level p
 ⚡ Reporting Efficiency — Converts raw data into management-ready reports, reducing manual effort
 
 
-🛠️ Tools & Skills Used:
+**🛠️ Tools & Skills Used:**
 
-Microsoft Excel — Advanced Formulas, Pivot Tables, Slicers, Data Visualization
+- Microsoft Excel — Advanced Formulas, Pivot Tables, Slicers, Data Visualization
 
-Dashboard Design — Multi-panel layout, KPI cards, color-coded performance indicators
+- Dashboard Design — Multi-panel layout, KPI cards, color-coded performance indicators
 
-Data Analysis — Target vs Actual comparison, Gap Analysis, Trend tracking
+- Data Analysis — Target vs Actual comparison, Gap Analysis, Trend tracking
 
-Reporting — Management-level insight structuring for operational decision-making
+- Reporting — Management-level insight structuring for operational decision-making
 
 
-📊 Metrics Tracked:
+**📊 Metrics Tracked:**
 
 ✅ Total Sales — Actual sales volume per executive / region
 
@@ -42,7 +42,7 @@ Reporting — Management-level insight structuring for operational decision-maki
 🔴 Away From Target % — Gap analysis to identify underperformance
 
 
-💡 What This Project Demonstrates:
+**💡 What This Project Demonstrates:**
 
 - Ability to design MIS-style reporting dashboards for operational use
 
@@ -53,7 +53,7 @@ Reporting — Management-level insight structuring for operational decision-maki
 - Understanding of sales KPIs relevant to business operations and performance tracking
 
 
-📬 Connect:
+**📬 Connect:**
 
 GitHub: sirajul-islam5
 
