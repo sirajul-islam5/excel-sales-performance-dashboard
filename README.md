@@ -1,4 +1,4 @@
-**📊 Interactive Sales Performance Dashboard — Microsoft Excel**
+**📊 Multi-Region Sales Analysis Dashboard — Microsoft Excel**
 
 
 **🎯 Objective:**
@@ -55,6 +55,6 @@ Developed a multi-regional sales monitoring dashboard to track executive-level p
 
 **📬 Connect:**
 
-GitHub: sirajul-islam5
+- GitHub: sirajul-islam5
 
-LinkedIn: md-sirajul-islam57 
+- LinkedIn: md-sirajul-islam57 
