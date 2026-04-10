@@ -45,16 +45,12 @@ Developed a multi-regional sales monitoring dashboard to track executive-level p
 **💡 What This Project Demonstrates:**
 
 - Ability to design MIS-style reporting dashboards for operational use
-
 - Skill in multi-dimensional data filtering using Slicers and Pivot Tables
-
 - Experience converting raw data into management-ready visual reports
-
 - Understanding of sales KPIs relevant to business operations and performance tracking
 
 
 **📬 Connect:**
 
 - GitHub: sirajul-islam5
-
 - LinkedIn: md-sirajul-islam57 
